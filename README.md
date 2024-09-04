@@ -1,4 +1,4 @@
-### Customer Churn Prediction
+## Customer Churn Prediction
 
 ### 1. Data Cleaning and Preparation
 
